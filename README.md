@@ -19,8 +19,9 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel.png" alt="excel" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/tableau.png" alt="tableau" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="excel" height="40"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="powerbi" height="40"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="tableau" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </p>
