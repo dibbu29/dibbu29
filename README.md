@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **divyadevarajan2903@gmail.com**
 
-- 📄 Know about my experiences **https://in.docworkspace.com/d/sIMitzO6VAY6SzqwG**
+- 📄 Know about my experiences **(https://divya-devarajan-portfolio-l1buf4krt-dibbu29s-projects.vercel.app/)**
 
-### Connect with me:
+
 
 ### Languages and Tools:
 <p align="left">
