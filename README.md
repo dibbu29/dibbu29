@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **divyadevarajan2903@gmail.com**
 
-- 📄 Know about my experiences **(https://divya-devarajan-portfolio-l1buf4krt-dibbu29s-projects.vercel.app/)**
+- 📄 Know about my experiences **((https://divya-devarajan-portfolio.vercel.app/))**
 
 
 
